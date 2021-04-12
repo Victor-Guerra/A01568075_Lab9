@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: mx.tec.lab.TestHtml2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.743 s <<< FAILURE! - in mx.tec.lab.TestHtml2ApplicationTests
+mx.tec.lab.TestHtml2ApplicationTests  Time elapsed: 0.741 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable does not exist: /home/victorg/Downloads/chromedriver_89.0.4389.32
+	at mx.tec.lab.TestHtml2ApplicationTests.setUp(TestHtml2ApplicationTests.java:24)
+
